@@ -113,7 +113,7 @@ const Contact = () => {
 
             {/* Email CTA */}
             <a
-              href="mailto:emailkamu@gmail.com"
+              href="mailto:ahmadnurhidayatulla@gmail.com"
               className="
                 group
                 mt-7
