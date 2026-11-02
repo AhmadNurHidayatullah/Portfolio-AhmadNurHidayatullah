@@ -182,10 +182,10 @@ export default function Home() {
               className="mt-8"
             >
               <h2 className="text-xl font-bold uppercase tracking-tight text-[var(--foreground)] sm:text-2xl">
-                Web Developer
+                Programmer, Application Developer
                 <span className="mx-2 text-[var(--accent)]">&</span>
                 <span className="text-[var(--muted)]">
-                  UI/UX Enthusiast
+                  web developer
                 </span>
               </h2>
             </motion.div>
@@ -253,7 +253,7 @@ export default function Home() {
 
               {/* Secondary */}
               <a
-                href="/CV.pdf"
+                href="/cv/AhmadNurHidayatullah-Programmer.pdf"
                 download
                 className="group flex items-center gap-3 border border-white/20 px-6 py-4 text-xs font-bold uppercase tracking-[0.12em] text-white/80 transition-all duration-300 hover:border-[#f5b800] hover:text-[var(--accent)]"
               >
@@ -493,6 +493,24 @@ export default function Home() {
 
               <span className="text-[9px] font-bold uppercase tracking-[0.2em] text-[var(--muted)]">
                 Software
+              </span>
+
+              <span className="h-1 w-1 rounded-full bg-[#f5b800]" />
+
+              <span className="text-[9px] font-bold uppercase tracking-[0.2em] text-[var(--muted)]">
+                API
+              </span>
+
+              <span className="h-1 w-1 rounded-full bg-[#f5b800]" />
+
+              <span className="text-[9px] font-bold uppercase tracking-[0.2em] text-[var(--muted)]">
+                Database
+              </span>
+
+              <span className="h-1 w-1 rounded-full bg-[#f5b800]" />
+
+              <span className="text-[9px] font-bold uppercase tracking-[0.2em] text-[var(--muted)]">
+                Application
               </span>
 
               <span className="h-1 w-1 rounded-full bg-[#f5b800]" />

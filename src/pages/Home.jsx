@@ -3,7 +3,7 @@ import About from "../sections/About";
 import Education from "../sections/Education";
 import Projects from "../sections/Projects";
 import Skills from "../sections/Skills";
-// import CV from "../sections/CV";
+import CV from "../sections/CV";
 import Contact from "../sections/Contact";
 
 const Home = () => {
@@ -14,7 +14,7 @@ const Home = () => {
       <Education />
       <Projects />
       <Skills />
-      {/* <CV /> */}
+      <CV />
       <Contact />
     </>
   );

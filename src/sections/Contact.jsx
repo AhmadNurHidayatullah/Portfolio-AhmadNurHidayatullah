@@ -82,9 +82,14 @@ const Contact = () => {
 
               <div className="flex flex-wrap gap-2">
                 {[
+                  "Junior Programmer",
                   "Web Development",
                   "Software Development",
+                  "Frontend Development",
+                  "Backend Development",
                   "Full Stack Development",
+                  "System Analysis",
+                  "Quality Assurance",
                   "UI/UX Design",
                 ].map((item) => (
                   <span

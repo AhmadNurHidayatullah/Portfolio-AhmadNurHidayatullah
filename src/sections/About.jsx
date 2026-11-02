@@ -75,11 +75,11 @@ const About = () => {
                 xl:text-[5rem]
               "
             > 
-              " Life is{" "}
+              " Turning{" "}
               <span className="text-[var(--accent)]">
-                simple,
+                 ideas
               </span>{" "}
-              we’re the ones who make it difficult. "
+              into functional digital solutions. "
             </h3>
 
             {/* Description */}
@@ -131,10 +131,12 @@ const About = () => {
                   md:leading-7
                 "
               >
-                Saya terbiasa merancang antarmuka, mengembangkan fitur,
-                menyusun workflow aplikasi, melakukan pengujian, serta
-                terus mempelajari teknologi baru untuk membangun solusi
-                digital yang fungsional dan mudah digunakan.
+                Terbiasa terlibat dalam proses pengembangan aplikasi, 
+                mulai dari analisis kebutuhan, perancangan alur sistem 
+                dan antarmuka, implementasi fitur, pengembangan REST API, 
+                hingga pengujian aplikasi. Saya senang mempelajari teknologi 
+                baru dan mengembangkan solusi digital yang fungsional, terstruktur, 
+                serta mudah digunakan.
               </p>
             </div>
 
@@ -155,11 +157,14 @@ const About = () => {
             >
               {[
                 "Web Development",
+                "Software Development",
+                "API Development",
+                "Database Management",
                 "Front-End Development",
                 "Back-End Development",
-                "Software Development",
                 "Full Stack Development",
                 "UI/UX Design",
+                "System Analysis",
                 "Problem Solving",
               ].map((item) => (
                 <span
@@ -223,7 +228,7 @@ const About = () => {
                 </span>
 
                 <span className="text-right text-xs font-semibold text-[var(--foreground)] sm:text-sm">
-                  Web & UI/UX
+                  Software, Web & Application Developer
                 </span>
               </div>
 
@@ -246,7 +251,7 @@ const About = () => {
                 </span>
 
                 <span className="text-right text-xs font-semibold text-[var(--foreground)] sm:text-sm">
-                  Academic & Project
+                  Internship & Projects
                 </span>
               </div>
 
@@ -269,7 +274,7 @@ const About = () => {
                 </span>
 
                 <span className="text-right text-xs font-semibold text-[var(--foreground)] sm:text-sm">
-                  Indonesia
+                  Yogyakarta, Indonesia
                 </span>
               </div>
 

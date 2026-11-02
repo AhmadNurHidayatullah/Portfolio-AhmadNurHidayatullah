@@ -177,7 +177,7 @@ const Education = () => {
                   sm:text-sm
                 "
               >
-                S1 Teknologi Informasi · Fakultas Teknik
+                S1 Teknologi Informasi · IPK 3,74/4,00
               </p>
 
               <p
@@ -191,14 +191,17 @@ const Education = () => {
                   sm:leading-7
                 "
               >
-                Mempelajari pengembangan perangkat lunak, pengembangan web,
-                basis data, analisis sistem, pemrograman, serta perancangan
-                antarmuka dan pengalaman pengguna.
+                Mempelajari dan penerapan teknologi informasi, meliputi pemrograman, 
+                pengembangan perangkat lunak dan web, pengelolaan basis data, analisis 
+                sistem, serta perancangan antarmuka dan pengalaman pengguna. Mengembangkan 
+                berbagai proyek aplikasi dan website secara individu maupun tim sebagai 
+                penerapan kemampuan teknis dan pemecahan masalah.
               </p>
 
               {/* Relevant Areas */}
               <div className="mt-5 flex flex-wrap gap-2 sm:mt-6">
                 {[
+                  "Programming",
                   "Software Development",
                   "Web Development",
                   "Database",

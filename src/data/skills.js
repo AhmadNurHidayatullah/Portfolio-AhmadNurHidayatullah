@@ -15,10 +15,10 @@ export const skills = [
   {
     category: "Frontend",
     items: [
-      "HTML",
-      "CSS",
+      "HTML5",
+      "CSS3",
       "JavaScript",
-      "React",
+      "React.js",
       "Next.js",
       "Tailwind CSS",
       "Blade",
@@ -33,12 +33,15 @@ export const skills = [
       // "Node.js",
       // "Express.js",
       "REST API",
+      "API Development",
+      "Authentication",
     ],
   },
   {
     category: "Database",
     items: [
       "MySQL",
+      "PostgreSQL",
       // "SQL Server",
       // "Database Design",
       // "SQL",
@@ -57,9 +60,11 @@ export const skills = [
     category: "UI / UX",
     items: [
       "Figma",
-      // "Wireframing",
+      "Wireframing",
       "Prototyping",
       "UI Design",
+      "UX Design",
+      "User Flow",
       "Responsive Design",
     ],
   },
@@ -74,6 +79,7 @@ export const skills = [
       "XAMPP",
       "Vercel",
       "Laragon",
+      "vite",
     ],
   },
   {
@@ -82,8 +88,11 @@ export const skills = [
       "System Analysis",
       "API Integration",
       "Software Testing",
+      "API Testing",
       "Debugging",
       "Problem Solving",
+      "Database Management",
+      "Responsive Web Design",
     ],
   },
 ];

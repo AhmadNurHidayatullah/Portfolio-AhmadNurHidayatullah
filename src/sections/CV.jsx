@@ -59,7 +59,7 @@ const CV = () => {
 
               {/* View CV */}
               <a
-                href="/sertifikasi/TOFLE.pdf"
+                href="/cv/AhmadNurHidayatullah-Programmer.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="
@@ -94,7 +94,7 @@ const CV = () => {
 
               {/* Download CV */}
               <a
-                href="/cv/Cert19805351686.pdf"
+                href="/cv/AhmadNurHidayatullah-Programmer.pdf"
                 download
                 className="
                   group
