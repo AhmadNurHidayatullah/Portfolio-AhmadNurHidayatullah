@@ -345,7 +345,7 @@ export default function Home() {
 
               {/* Photo */}
               <img
-                src="/profil/profil.jpg"
+                src="/profil/formal.png"
                 alt="Ahmad Nur Hidayatullah"
                 className="absolute inset-0 h-140 w-full object-cover"
               />
